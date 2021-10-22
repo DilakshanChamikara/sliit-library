@@ -19,4 +19,9 @@ public class MathOperation {
     {
         return operand1 * operand2;
     }
+
+    public static double division(double operand1, double operand2)
+    {
+        return operand1 / operand2;
+    }
 }
