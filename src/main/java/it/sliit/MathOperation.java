@@ -24,4 +24,10 @@ public class MathOperation {
     {
         return operand1 / operand2;
     }
+
+    public static double sqrt(double operand1)
+    {
+        return operand1 * operand1;
+    }
+
 }
